@@ -1,0 +1,14 @@
+{
+  "name": "pushfile",
+  "version": "1.0.0",
+  "description": "Constructor hangman",
+  "main": "constructors-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CCS",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
